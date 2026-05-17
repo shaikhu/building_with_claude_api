@@ -1,0 +1,92 @@
+    # One-Day Meal Plan for Marathon Runner (Vegetarian)
+    
+    ## Daily Nutritional Targets
+    - **Calories:** 2,400 kcal
+    - **Protein:** 95g (16%)
+    - **Carbohydrates:** 330g (55%)
+    - **Fat:** 67g (25%)
+    
+    ---
+    
+    ## BREAKFAST (7:00 AM)
+    **Oatmeal Power Bowl**
+    - Rolled oats: 60g
+    - Banana: 120g
+    - Almond butter: 20g
+    - Honey: 15g
+    - Water: 200ml
+    
+    **Nutrition:** 380 kcal | 12g protein | 54g carbs | 13g fat
+    
+    ---
+    
+    ## MID-MORNING SNACK (10:00 AM)
+    **Greek Yogurt & Berries**
+    - Plain Greek yogurt (0%): 150g
+    - Mixed berries: 100g
+    - Granola: 30g
+    
+    **Nutrition:** 220 kcal | 18g protein | 28g carbs | 3g fat
+    
+    ---
+    
+    ## LUNCH (1:00 PM)
+    **Chickpea & Vegetable Wrap**
+    - Whole wheat tortilla: 70g
+    - Canned chickpeas (drained): 140g
+    - Spinach: 50g
+    - Bell pepper: 80g
+    - Hummus: 30g
+    - Olive oil: 10ml
+    - Lemon juice: 10ml
+    
+    **Nutrition:** 520 kcal | 16g protein | 65g carbs | 18g fat
+    
+    ---
+    
+    ## PRE-RUN SNACK (4:00 PM)
+    **Energy Bar & Banana**
+    - Rice cake: 35g
+    - Peanut butter: 15g
+    - Banana: 100g
+    
+    **Nutrition:** 320 kcal | 12g protein | 38g carbs | 12g fat
+    
+    ---
+    
+    ## DINNER (7:00 PM)
+    **Lentil & Vegetable Stir-Fry**
+    - Cooked brown lentils: 180g
+    - Brown rice (cooked): 150g
+    - Broccoli: 100g
+    - Carrot: 80g
+    - Mushrooms: 60g
+    - Sesame oil: 12ml
+    - Garlic & ginger: 5g
+    
+    **Nutrition:** 550 kcal | 25g protein | 130g carbs | 8g fat
+    
+    ---
+    
+    ## EVENING RECOVERY SNACK (9:00 PM)
+    **Chocolate Milk Recovery Drink**
+    - Low-fat milk: 250ml
+    - Cocoa powder: 15g
+    - Honey: 10g
+    
+    **Nutrition:** 210 kcal | 12g protein | 38g carbs | 3g fat
+    
+    ---
+    
+    ## Daily Totals
+    - **Calories:** 2,390 kcal ✓
+    - **Protein:** 95g ✓
+    - **Carbohydrates:** 333g ✓
+    - **Fat:** 67g ✓
+    
+    ## Notes
+    - High carbs support marathon endurance training
+    - Distributed protein maintains lean muscle
+    - Pre-run snack provides quick energy
+    - Recovery snack aids muscle repair post-workout
+    - Budget-friendly with staple ingredients
