@@ -9,7 +9,6 @@ import com.anthropic.models.messages.Model;
 
 public class ChatHistoryDemo {
     public static void main(String[] args) {
-        // Reads ANTHROPIC_API_KEY from the environment
         AnthropicClient client = AnthropicOkHttpClient.fromEnv();
 
         String firstPrompt = "What is quantum computing? Answer in one sentence.";

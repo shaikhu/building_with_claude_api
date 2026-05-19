@@ -10,7 +10,6 @@ import com.anthropic.models.messages.Model;
 public class StopSequenceDemo {
 
     public static void main(String[] args) {
-        // Reads ANTHROPIC_API_KEY from the environment
         AnthropicClient client = AnthropicOkHttpClient.fromEnv();
 
         String prompt = "Count from 1 to 10?";
