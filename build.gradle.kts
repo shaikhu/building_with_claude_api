@@ -71,3 +71,6 @@ registerDemo("runSystemPromptCachingDemo", "com.example.features.SystemPromptCac
 registerDemo("runUserPromptCachingDemo", "com.example.features.UserPromptCachingDemo")
 registerDemo("runFilesApiDemo",        "com.example.features.FilesApiImageDemo")
 registerDemo("runCodeExecutionDemo",   "com.example.features.CodeExecutionDemo")
+
+// Module 7: MCP
+registerDemo("runMcpDemo", "com.example.mcp.McpDemo")
