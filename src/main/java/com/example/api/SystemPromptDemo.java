@@ -7,6 +7,9 @@ import com.anthropic.models.messages.MessageCreateParams;
 import com.anthropic.models.messages.Model;
 
 
+/**
+ * Use system prompt to guide the model's behaviour e.g. rules and persona
+ */
 public class SystemPromptDemo {
 
     public static void main(String[] args) {
