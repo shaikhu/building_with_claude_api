@@ -7,6 +7,9 @@ import com.anthropic.models.messages.MessageCreateParams;
 import com.anthropic.models.messages.Model;
 
 
+/**
+ * Use an assistant to represent previous prompts/replies (chat history). This provided context to the conversation.
+ */
 public class ChatHistoryDemo {
     public static void main(String[] args) {
         AnthropicClient client = AnthropicOkHttpClient.fromEnv();

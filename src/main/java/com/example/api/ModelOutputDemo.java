@@ -7,6 +7,9 @@ import com.anthropic.models.messages.MessageCreateParams;
 import com.anthropic.models.messages.Model;
 
 
+/**
+ * Use an assistant message to steer the model's reasoning and answer style before processing the user's question.
+ */
 public class ModelOutputDemo {
 
     public static void main(String[] args) {
